@@ -1,0 +1,76 @@
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80062eb614adb596a2ac91c39429721ea07e2900"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "5d6cecc74f307bbb343892ff5764616b6dcc22fdf926815667005d35c84da170"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.i686-linux-gnu-cxx03.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b315d3f60e50cb003c8a571ae2675c698c41607"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "d2dbbf44e9715301e8b892d6bdad0aa93ecede67fdd6b63f81de99fa57c22590"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.i686-linux-gnu-cxx11.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ac3c1bcebaee9fa493c1e4eda4df63b3b49ece01"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "af5109077ac398fb8dae29a23ea9e20040db6e120784c711567379d1238449d2"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.i686-w64-mingw32-cxx03.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a41f09cc8f84142c10f14ac01fd66a55a202449c"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "afea853b85591b6dd1e50b0f573cf3cf5a50c91d12f3aec56c7cf197016fa487"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.i686-w64-mingw32-cxx11.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9ddad135851feff18e77958945117edf98afd287"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "3a3b34ef8b8dd7c3f5bb008f59b047f1a88aa733a7d751013a195144cc64a68a"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "652e5b0b7988e9699081f1d0fb40a0a0af10e52f"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "7aba027a07c752b76530b31b10011543ccab7180cf3dee73423003dba1367cc4"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d9bdf654426699e161eb923fb0ab9cbe135302d"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "85433862d5dc5efb931c71ece49e9bbcdcfabfd301c06bddc84c79b913eab1cd"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3979b21ba597c08314f05ab3beb151c0a8e00bc"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "3c25ff816b13dabcedd02615acb293eaaa68f1e5f374e41e0bcae323f9dadcb1"
+    url = "https://github.com/serenity4/glslang_jll.jl/releases/download/glslang-v2.23.0+0/glslang.v2.23.0.x86_64-w64-mingw32-cxx11.tar.gz"
